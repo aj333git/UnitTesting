@@ -1,0 +1,18 @@
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+[xUnit.net 00:00:05.94]     GymApp.Tests.ProductTests.ProductPrice_Change [FAIL]
+  Failed GymApp.Tests.ProductTests.ProductPrice_Change [32 ms]
+  Error Message:
+   Assert.Equal() Failure
+Expected: 100
+Actual:   200
+  Stack Trace:
+     at GymApp.Tests.ProductTests.ProductPrice_Change() in /home/devnation/UnitTesting/GymApp.Tests/ProductTests.cs:line 32
+
+Failed!  - Failed:     1, Passed:     1, Skipped:     0, Total:     2, Duration: 24 ms - /home/devnation/UnitTesting/GymApp.Tests/bin/Debug/net6.0/GymApp.Tests.dll (net6.0)
+
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+
+Passed!  - Failed:     0, Passed:     2, Skipped:     0, Total:     2, Duration: 13 ms - /home/devnation/UnitTesting/GymApp.Tests/bin/Debug/net6.0/GymApp.Tests.dll (net6.0)
